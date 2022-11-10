@@ -19,19 +19,6 @@ int* create_array(int size)//создание динамического мас�
     return new int[size]();
 }
 
-void reverse(int* arr, int size)//переворот массива
-{
-    int temp = 0;
-    std::cout << "наобходимо выполнить " << size / 2 << " перестановок \n";
-    for (int i = 0; i < (size / 2); i++)
-    {
-        temp = arr[i];
-        std::cout << temp << " меняем местами с " << arr[size - 1 - i] << "\n";
-        arr[i] = arr[size - 1 - i];
-        arr[size - 1 - i] = temp;
-    }
-}
-
 int main(int args, char** argv)
 {
     setlocale(LC_ALL, "Russian");
@@ -82,8 +69,8 @@ int main(int args, char** argv)
 
         //сдвиг правого массива вправо
         temp = arr_2[M - 1];
-        for (i = M - 1; i >=0; i--)
-        {
+        for (i = M - 1; i >=1; i--)
+        
             arr_2[i] = arr_2[i - 1];
         }
         arr_2[0] = temp;
