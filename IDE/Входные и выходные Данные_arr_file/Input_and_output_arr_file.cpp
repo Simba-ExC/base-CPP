@@ -35,8 +35,7 @@ int main(int args, char** argv)
         std::cout << "Не получилось открыть файл in.txt" << std::endl;
         return 1;
     }
-    else
-    {
+    
         file_in >> N;
 
         int* arr = create_array(N);
@@ -106,5 +105,4 @@ int main(int args, char** argv)
         delete[] arr_2;
         file_in.close();
         file_out.close();
-    }
 }
