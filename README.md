@@ -5,8 +5,8 @@
 #### 1. [IDE](IDE).
 #### 2. [Структуры и перечисления](Structures_and_enumerations).
 #### 3. [Классы и объекты](Classes_and_objects).
-#### 4. [ООП: абстракция и инкапсуляция](OOP:_Abstraction_and_encapsulation).
-#### 5. [ООП: наследование и полиморфизм](OOP:_Inheritance_and_polymorphism).
+#### 4. [ООП: абстракция и инкапсуляция](Abstraction_and_encapsulation).
+#### 5. [ООП: наследование и полиморфизм](Inheritance_and_polymorphism).
 #### 6. [Многофайловые проекты и библиотеки](Multi-file_projects_and_libraries).
 #### 7. [Препроцессор и макросы](Preprocessor_and_macros).
 #### 8. [Исключения и обработка ошибок](Exceptions_and_error_handling).
