@@ -1,0 +1,6 @@
+5
+Moscow, Builders, 34, 12
+Moscow, arbat, 4, 1
+Novokuznetsk, Science, 5, 16
+Novosibirsk, mira, 85, 64
+Omsk, Pushkin, 2, 13
