@@ -160,7 +160,6 @@ void printFigure(Figure& figure)
 int main()
 {
 	setlocale(LC_ALL, "Russian"); 
-	system("chcp 1251");
 
 	Triangle Triangle1(10, 20, 30, 40, 50, 60);
 	printFigure(Triangle1);
