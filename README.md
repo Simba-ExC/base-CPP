@@ -13,3 +13,4 @@
 #### 9. [Перегрузка операторов](Operator_overloading).
 #### 10. [CMake](CMake).
 #### 11. [Сборка и подключение библиотек](Building_and_connecting_libraries).
+#### 11. [Курсовой проект, симулятор гонок](race_diplom).
